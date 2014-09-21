@@ -1,7 +1,7 @@
 ##Software
 ==========
 
-Here's both the Arduino files and pre-compiled hex files ready for uploading. You will need some type of ISP programmer to upload the code. I use an Arduino Leonardo as a programmer. It's easiest to do this with the ATTiny on the board, with no other components.
+Here's both the Arduino files and pre-compiled hex files ready for uploading. You will need some type of ISP programmer to upload the code. I use an Arduino Leonardo as a programmer. It's easiest to do this with the ATTiny on the board, with only the capacitor and voltage regulator.
 
 The programming pins are
 
@@ -18,4 +18,4 @@ Fuses should be set to
 - High	   0x77
 - Extended 0xFF
 
-If for some reason you need to reprogram, you'll have to remove the ATTiny and use high-voltage serial programming, which you'll need to figure out on your own.
+If for some reason you need to reprogram, you'll have to remove the ATTiny and use a high-voltage serial programmer.

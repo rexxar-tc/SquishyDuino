@@ -1,5 +1,5 @@
-//Squishy RGB LED Controller-Code written by Matthew Schmidt Bauer for the Squishy Circuits Project with Annmarie Thomas
-//Adapted for ATTiny25 by Brant Martin & Chris Easton
+//Original Squishy RGB LED Controller-Code written by Matthew Schmidt Bauer for the Squishy Circuits Project with Annmarie Thomas
+//Rewritten for ATTiny25 SquishyDuino by Brant Martin & Chris Easton
 
 //Port Definitions and Variable Declarations:
 #define RED_LED 0
