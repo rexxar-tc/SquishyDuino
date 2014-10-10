@@ -13,7 +13,7 @@ Essentially, Squishy Circuits is a type of play-dough that has reasonably good c
 
 ##Tindie Store
 
-I just finished designing revision 2 of the SquishyDuino, so once I get new boards made, I'll put them up for sale on Tindie.
+SquishyDuino is now available on my [tindie store!](https://www.tindie.com/stores/rexxar/)
 
 Rev2 addresses a problem I didn't expect in the original design; The ATtiny can't source much current, so the speaker was very, very quiet. I fixed that, and updated the code to make it sound better.
 

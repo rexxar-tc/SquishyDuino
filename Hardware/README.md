@@ -9,7 +9,7 @@ This is a very short list:
 
 - ATTiny25 in SO-8 package
 - 1 1 uf ceramic capacitor in 0603 package
-- 1 L7805 5V regulator in SOT223 package
+- 1 L7805 5V regulator in SOT89 package
 - 1 9V battery clip
 - Several pieces of wire
 
@@ -20,7 +20,7 @@ In addition, the LED version requires
 The buzzer version requires
 - 1 small mylar speaker
 - 1 220 and 1 470 ohm resistors
-- 1 2n2222 NPN transistor in SOT-23 package
+- 1 BC846 NPN transistor in SOT-323 package
 
 I recommend [Mouser.com](http://mouser.com) or [Digikey.com](digikey.com) for sourcing these parts.
 
